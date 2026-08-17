@@ -1,4 +1,4 @@
-[![ไทย](https://img.shields.io/badge/Thai-Click-blue)](README-th.md)
+- 🧬 [SEOSiri-Official/biopharma-mcp](https://github.com/SEOSiri-Official/biopharma-mcp) [![glama](https://glama.ai/mcp/servers/SEOSiri-Official/biopharma-mcp/badges/score.svg)](https://glama.ai/mcp/servers/SEOSiri-Official/biopharma-mcp) - Biopharma software infrastructure MCP server for 4PL curve fitting, CDISC SDTM exports, and FDA 21 CFR Part 11 audit trails.
 [![English](https://img.shields.io/badge/English-Click-yellow)](README.md)
 [![繁體中文](https://img.shields.io/badge/繁體中文-點擊查看-orange)](README-zh_TW.md)
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README-zh.md)
